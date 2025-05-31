@@ -1,8 +1,8 @@
 <h1>Hi there, I'm <a href="https://github.com/devChampl00">ijii</a> 👋</h1>
 
-I love exploring web development, especially JavaScript technologies, and I’m always excited to learn and build cool stuff. Besides coding, I enjoy reading books and watching movies—they’re a great way to spark new ideas and unwind. I’m also into sports like football, working out, and boxing to stay active and push my limits.
+I love exploring web development, especially JavaScript technologies, and I’m always excited to learn and build cool stuff. I’m also into sports like football ofcourse and working out lilbit to stay active and push my limits.
 
-Another thing I really enjoy is playing chess—it’s both fun and challenging. If you’re up for a game, I’d be more than happy to play!
+Another thing I really enjoy is playing chess, it’s both fun and challenging. If you’re up for a game, I’d be more than happy to play!
 
 <p align="center">
   <a href="mailto:alfariziuchiha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
