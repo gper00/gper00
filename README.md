@@ -1,6 +1,6 @@
 <h1>Hi there, I'm <a href="https://github.com/gper00">ijii</a> 👋</h1>
 
-An Informatis Engineering with a passion of exploring web development, especially JavaScript technologies, and always excited to learn and build cool stuff. I’m also into sports like football ofcourse and working out lilbit to stay active and push my limits.
+An Informatis Engineering student with a passion of exploring web development, especially JavaScript technologies, and always excited to learn and build cool stuff. I’m also into sports like football ofcourse and working out lilbit to stay active and push my limits.
 
 Another thing I really enjoy is playing chess, it’s both fun and challenging. If you’re up for a game, I’d be more than happy to play!
 
