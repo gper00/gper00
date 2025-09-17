@@ -1,4 +1,4 @@
-# Hi there, I'm [ijii](https://github.com/gper00) 👋
+# Hi there, [ijii](https://github.com/gper00) here 👋
 
 I'm an Informatics Engineering student with a passion for exploring web development, especially JavaScript technologies. I'm always excited to learn and build cool stuff. I'm also into sports like football (of course!) and working out a little to stay active and push my limits.
 
